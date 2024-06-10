@@ -1,1 +1,1 @@
-# kni-app
+# ink-app
