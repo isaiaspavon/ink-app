@@ -2,4 +2,4 @@
 
 mvn -q clean
 mvn -q compile
-mvn -q exec:java -Dprism.order=sw -Dexec.mainClass="ink.api.App"
+mvn -q exec:java -Dprism.order=sw -Dexec.mainClass=ink.api.AppDriver
